@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EBF98E0B-E0EB-0AFF-2FF1-F2E46CD73242}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Common/Scripts/Editor/ParticleRendererSortingLayersEditor.cs">
+    <Files>
+      <File FileName="Assets/Common/Scripts/Dialog/ShopDialog.cs" Line="1" Column="2" />
+      <File FileName="Assets/Common/Scripts/CommonConst.cs" Line="4" Column="6" />
+      <File FileName="Assets/Common/Scripts/Controller/BaseController.cs" Line="18" Column="3" />
+      <File FileName="Assets/_Scripts/Controller/HomeController.cs" Line="268" Column="7" />
+      <File FileName="Assets/Common/Scripts/MaterialReplacer.cs" Line="71" Column="27" />
+      <File FileName="Assets/Common/Scripts/Editor/SortingLayersEditor.cs" Line="17" Column="2" />
+      <File FileName="Assets/Common/Scripts/Editor/ParticleRendererSortingLayersEditor.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jigsaw_v1.2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="299d8889-e4b1-4995-a477-6bc0f1ef6f20" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
